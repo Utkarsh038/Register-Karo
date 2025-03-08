@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 
 <h1> Desktop Screentshot </h1>
-![screencapture-register-karo-task-vercel-app-2025-01-27-15_35_32](https://github.com/user-attachments/assets/583ef5eb-8b55-4644-9807-b36e2e5995e4)
+![src\assets\readmepic\Screenshot 2025-03-08 124035.png]
 
 <h1> Mobile Screentshot </h1>
 
