@@ -10,8 +10,9 @@ Currently, two official plugins are available:
 Figma Design Link - https://www.figma.com/design/BWtutOCqSUinQiqoSCDQ0c/Register-Karo-Home-Page-(Copy)?node-id=1-21315&t=9C0PMt6b4vvupYpo-0
 
 
-<h1> Desktop Screentshot </h1>
-![\src\assets\readmepic\Screenshot 2025-03-08 124035.png]
+<h1> Desktop Screenshot </h1>
+<img src="/assets/readmepic/Screenshot 2025-03-08 124035.png" alt="Desktop Screenshot" width="600"/>
+
 
 <h1> Mobile Screentshot </h1>
 
