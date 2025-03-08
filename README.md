@@ -11,7 +11,7 @@ Figma Design Link - https://www.figma.com/design/BWtutOCqSUinQiqoSCDQ0c/Register
 
 
 <h1> Desktop Screentshot </h1>
-![src\assets\readmepic\Screenshot 2025-03-08 124035.png]
+![\src\assets\readmepic\Screenshot 2025-03-08 124035.png]
 
 <h1> Mobile Screentshot </h1>
 
