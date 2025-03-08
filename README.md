@@ -11,7 +11,10 @@ Figma Design Link - https://www.figma.com/design/BWtutOCqSUinQiqoSCDQ0c/Register
 
 
 <h1> Desktop Screenshot </h1>
-<img src="/assets/readmepic/Screenshot 2025-03-08 124035.png" alt="Desktop Screenshot" width="600"/>
+<img src="public/assets/readmepic/Screenshot 2025-03-08 124035.png" alt="Desktop Screenshot" width="600"/>
+<img src="public/assets/readmepic/2reg.png" alt="Desktop Screenshot" width="600"/>
+<img src="public/assets/readmepic/3reg.png" alt="Desktop Screenshot" width="600"/>
+
 
 
 <h1> Mobile Screentshot </h1>
